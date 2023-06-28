@@ -1,0 +1,131 @@
+{
+  "seccion": {
+    "Torpe o entumecido": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Acalorado": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con temblor en las piernas": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Incapaz de relajarse": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con temor a que ocurra lo peor.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Mareado, o que se le va la cabeza.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con latidos del corazón fuertes y acelerados.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Inestable.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Atemorizado o asustado.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Nervioso.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con sensación de bloqueo.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con temblores en las manos.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Inquieto, inseguro.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con miedo a perder el control.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con sensación de ahogo.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con temor a morir.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con miedo.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con problemas digestivos.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con desvanecimientos.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con rubor facial.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    },
+    "Con sudores, frios o calientes.": {
+      "0": "0 En absoluto",
+      "1": "1 Levemente",
+      "2": "2 Moderadamente",
+      "3": "3 Severamente"
+    }
+  },
+  "indicaciones": "Lea cada uno de los items atentamente, e indique cuanto le ha afectado en la última semana incluyendo hoy:"
+}
